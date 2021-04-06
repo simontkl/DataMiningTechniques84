@@ -2,7 +2,7 @@
 
 def git_checker():
 
-    e=''
+    e='Emily'
     s='Simon'
 
     if e=='Emily' and s=='':
