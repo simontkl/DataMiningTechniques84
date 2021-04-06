@@ -3,7 +3,7 @@
 def git_checker():
 
     e=''
-    s=''
+    s='Simon'
 
     if e=='Emily' and s=='':
         print("Emily joined the mining company, but Simon didn't. Germans... *eye roll*")
